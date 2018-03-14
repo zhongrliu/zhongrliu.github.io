@@ -1,17 +1,17 @@
 future: true
 permalink: /:title/
-url: http://pmlpml.github.io
-name: Pan Sir
-author: Sir Pan
+url: http://zhongrliu.github.io
+name: ZhongRongLiu
+author: Zhong
 qq: yourqq
-email: yourmail@mail2.sysu.edu.cn
+email: zhongrliu@mail2.sysu.edu.cn
 
-duoshuo: yourname
+duoshuo: ZhongRongLiu
 beian: 
 cnzz: 
 weibo: 
-github: yourID
-about: "这里是 Your 的个人博客，创建于 20xx 年。"
+github: zhongrliu
+about: "这里是 zhongzhongliu 的个人博客，创建于 2018 年。"
 
 safe: true
 paginate: 20
